@@ -4,7 +4,7 @@
 
 ### REST API 설계 도구
 
-1**Swagger/OpenAPI** *(선택)*
+**Swagger/OpenAPI** *(선택)*
 - API 설계 및 문서화 도구.
 - 협업이 아닌 개인 개발자 중심으로 Swagger 선택함.
 
