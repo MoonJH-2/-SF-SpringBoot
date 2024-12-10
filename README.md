@@ -3,3 +3,6 @@
 
 #### swagger api-docs
 ![스크린샷 2024-12-10 23 56 33](https://github.com/user-attachments/assets/f94bb848-a93d-4000-a1b6-a54681bedbbd)
+
+#### JWT token - (1h) 생성 후, 로그인 시 header baerer <jwt>
+![스크린샷 2024-12-10 21 50 50](https://github.com/user-attachments/assets/4c39363c-12fa-4357-9cba-54e6fe085441)
