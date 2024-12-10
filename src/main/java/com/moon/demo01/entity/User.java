@@ -31,3 +31,11 @@ public class User {
     @NotBlank
     private String name;
 }
+/*
+{
+  "_id": "ObjectId",
+  "email": "example@example.com",
+  "password": "hashed_password",
+  "name": "John sina"
+}
+*/
